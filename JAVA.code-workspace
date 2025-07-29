@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "JAVA",
+			"path": "../Desktop/CODING/JAVA"
+		},
+		{
+			"name": "CODING",
+			"path": "../Desktop/CODING"
+		},
+		{
+			"name": "CLONE",
+			"path": "../Desktop/CLONE"
+		},
+		{
+			"name": "CSS",
+			"path": "../Desktop/CSS"
+		},
+		{
+			"name": "JAVA SCRIPT",
+			"path": "../Desktop/JAVA SCRIPT"
+		},
+		{
+			"name": "HTML",
+			"path": "../Desktop/HTML"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Javafx\\src"
+		],
+		"java.project.referencedLibraries": []
+	}
+}
